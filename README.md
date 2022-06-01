@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Hanoi University of Architecture](http://hau.edu.vn/) (HAU).
 
-- 🌱 I’m currently learning **JAVE BACKEND DEVELOPER**
+- 🌱 I’m currently learning **JAVA BACKEND DEVELOPER**
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100014167864051) 
